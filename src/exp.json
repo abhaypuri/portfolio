@@ -1,0 +1,29 @@
+{
+    "exp": [
+       
+        {
+            "title": "IIIT-Allhabad",
+            "role": "Research Intern",
+            "desc": "End to end Machine Learning & Deep Learning, from scratch, through R&D to production. Worked on advanced analytics from large-scale data using efficient DL & ML algorithms in Python.",
+            "duration": "June 2018 to July 2018"
+        },
+		 {
+            "title": "CodeBuild Hackathon",
+            "role": "Event Head",
+            "desc": "Organized Hackathon as a part of aDAVtiya (Annual Technical fest of DAVIET).",
+            "duration": "March 2019"
+        },
+        {
+            "title": "PyData- Jalandhar",
+            "role": "Organizer",
+            "desc": "• Organized various tech-talks and meetups all over Punjab on behalf of PyData Community. Delivered technical talks on Data Science, Machine Learning, Deep Learning.",
+            "duration": "Jan 2019 to Present"
+        },
+        {
+            "title": "Google Developer Student Club",
+            "role": "Campus Lead",
+            "desc": "Among the 185 Leads across the Globe. Initiated the setup of Google Classrooms in the Campus. Conducted various Competitive Programming, Cloud Study Jams.",
+            "duration": "Mar 2019 to Present"
+        }
+    ]
+}

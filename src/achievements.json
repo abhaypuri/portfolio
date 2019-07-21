@@ -1,0 +1,41 @@
+{
+    "achievements": [
+		{
+            "title": "Winner",
+            "place": "CBSE Scholarship",
+            "date": "August 2016",
+            "desc": "Awarded for coming under top 2 percentile among more than 10 lakh students in 12th Board exam."
+        },
+        {
+            "title": "First Place",
+            "place": "IIT Delhi",
+            "date": "August 2017",
+            "desc": "Built a sketch prototype of the Quad-Copter. "
+        },
+        
+        {
+            "title": "Core member",
+            "place": "College Placement Cell",
+            "date": "July 2018- April 2019",
+            "desc": "Successfully conducted campus placements of two batches."
+        },
+		{
+            "title": "10th University Position",
+            "place": "DAVIET",
+            "date": "August 2018",
+            "desc": "Secured 10th University Position in 4th Semester."
+        },
+        {
+            "title": "PyTorch Nanodegree Scholarship",
+            "place": "Facebook",
+            "date": "Nov 2018 - Jan 2019",
+            "desc": "Got selected for the PyTorch scholarship challenge by Facebook AI and Udacity, to pursue an in-depth course on PyTorch."
+        },
+		{
+            "title": "Runner Up",
+            "place": "IIT Roorkee",
+            "date": "February 2019",
+            "desc": "Built a web app for Book Recommendation System using Machine Learning."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+.icon-bg-style{
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	background: red;
+	display: inline-block;
+}
+
+.icon-style-code{
+	position: relative;
+	padding-top: 26%;
+	padding-left: 20%;
+	font-size: 25px;
+	color:white;
+}
+
+.icon-style-dev{
+	position: relative;
+	padding-top: 21%;
+	padding-left: 20%;
+	font-size: 30px;
+	color:white;
+}
+
+.icon-style-fw{
+	position: relative;
+	padding-top: 20%;
+	padding-left: 27%;
+	font-size: 30px;
+	color:white;
+}
+
+.skills-text{
+	display:inline-block;
+	position: relative; 
+	padding:0px 0px 10px 10px;
+	bottom: 5px;
+	font-size:20px;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
