@@ -8,7 +8,7 @@
             "linkTextArray": "GitHub",
             "tagPaddingClass": "blog-padding",
             "linkArray": "https://github.com/abhaypuri/Human-Resource-Analytics",
-            "src": "./images/hr.png"
+            "src": "/images/hr.png"
         },
         {
             "title": "Advanced-House-Price-Prediction",
@@ -18,7 +18,7 @@
             "linkTextArray": "GitHub",
             "tagPaddingClass": "project-padding",
             "linkArray": "https://github.com/abhaypuri/Advanced-House-Price-Prediction",
-            "src": "./images/house.png"
+            "src": "/images/house.png"
         },
 		{
             "title": "Introduction to Machine learning",
@@ -28,7 +28,7 @@
             "linkTextArray": "GitHub",
             "tagPaddingClass": "blog-padding",
             "linkArray": "https://docs.google.com/presentation/d/1bxhlzjAiRM4EkwXvt_tBMS0ZSTamdr978SDpIUiAalw/edit?usp=sharing",
-            "src": "./images/ml.png"
+            "src": "/images/ml.png"
         }, 
 		{
 			"title": "Introduction to Git & Github.",
@@ -38,7 +38,7 @@
             "linkTextArray": "GitHub",
             "tagPaddingClass": "blog-padding",
             "linkArray": "https://docs.google.com/presentation/d/1CZq8oo1g8erOJHbUxd2hW6U3Oeku1J0qb-l1na_Iyj8/edit?usp=sharing",
-            "src": "./images/github.png"
+            "src": "/images/github.png"
 		
 		},
 		{
@@ -49,7 +49,7 @@
             "linkTextArray": "GitHub",
             "tagPaddingClass": "blog-padding",
             "linkArray": "https://docs.google.com/presentation/d/1eI2ptRHvViE1YoOnBOBFY2GlshvgQbJWNFjIEt9863w/edit?usp=sharing",
-            "src": "./images/vis.png"
+            "src": "/images/vis.png"
         }
 		
     
