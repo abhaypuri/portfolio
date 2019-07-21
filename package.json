@@ -2,7 +2,7 @@
   "name": "practical-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://abhaypuri.github.io/Portfolio",
+  "homepage": "http://abhaypuri.github.io/portfolio",
   "dependencies": {
     "mdbreact": "^4.16.0",
     "react": "^16.8.6",
