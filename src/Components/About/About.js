@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-scroll";
-//import Resume from "./CV_AbhayPuri_Intern.pdf";
+import Resume from "./CV_AbhayPuri.pdf";
 import ContactIcons from "../Icons/Icons.js";
 import ProfilePic from "./me.jpg";
 import "./About.css";
@@ -22,7 +22,7 @@ class About extends Component {
             <div>
               <p>
                 Hi! I'm Abhay Puri, an undergraduate student pursuing Bachelors
-                in Computer science & set to graduate at 2020. I actively work
+                in Computer science & graduated in 2020. I actively work
                 on research in the fields of Computer Vision, Machine Learning
                 and Artificial Intelligence. If not hacking on a project, you
                 would find me playing Cricket or Badminton or trying to learn a
