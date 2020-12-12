@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-scroll";
-import Resume from "./CV_AbhayPuri_Intern.pdf";
+//import Resume from "./CV_AbhayPuri_Intern.pdf";
 import ContactIcons from "../Icons/Icons.js";
 import ProfilePic from "./me.jpg";
 import "./About.css";
