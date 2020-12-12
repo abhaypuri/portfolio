@@ -24,6 +24,12 @@
             "role": "Campus Lead",
             "desc": "Among the 185 Leads across the Globe. Initiated the setup of Google Classrooms in the Campus. Conducted various Competitive Programming, Cloud Study Jams.",
             "duration": "Mar 2019 to Present"
+        },
+	{
+            "title": "STMicroelectronics",
+            "role": "Python Developer Intern",
+            "desc": "Developed a Dynamic GUI in PyQT4 for CRUD operations and data validation checks. Created an OFDEC Launcher (OPC Friendly Design Check) in Python for finding fault in chip design.",
+            "duration": "July 2019 to Aug 2020"
         }
     ]
 }
